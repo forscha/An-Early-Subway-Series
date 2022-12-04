@@ -5,3 +5,9 @@ creator,true,false
 description,true,true
 subject,true,true
 location,true,false
+teams,true,true
+players,true,true
+people,true,true
+positions,true,true
+plays,true,true
+leagues,true,true
