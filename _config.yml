@@ -25,16 +25,16 @@ title: An Early Subway Series
 tagline: The Road to the 1922 World Series as Told By the New York Evening World
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection will take you through the 1922 Major League Baseball season and World Series through cartoons, photographs, and articles from the New York Evening World"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Andrew Forschler
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: AnEarlySubwaySeries
 
 ##########
 # Site/Organization Branding 
