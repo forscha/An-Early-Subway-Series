@@ -1,5 +1,13 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-subject,,true
+subject,,,
 location,,true
+teams,,,
+players,,,
+people,,,
+positions,,,
+plays,,,
+leagues,,,
+games,,,
+medium,,,
