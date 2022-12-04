@@ -22,6 +22,6 @@ plays, Plays,true
 leagues, Leagues,true
 games, Games,true
 medium, Medium,true
-relation, Relation
+relation, Relation,,true
 publisher, Publisher
 coverage, Coverage
