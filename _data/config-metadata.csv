@@ -14,14 +14,14 @@ games, Games,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+relation, Relation,,true
 medium, Medium,true
 source,Source
+publisher, Publisher
+coverage, Coverage
 identifier,Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
 language, Language
-relation, Relation,,true
-publisher, Publisher
-coverage, Coverage
