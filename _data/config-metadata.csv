@@ -4,16 +4,6 @@ creator,Creator,true
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
-language, Language
 teams, Teams,true
 players, Players,true
 people, People,true
@@ -21,7 +11,17 @@ positions, Positions,true
 plays, Plays,true
 leagues, Leagues,true
 games, Games,true
+location,Location
+latitude,Latitude
+longitude,Longitude
 medium, Medium,true
+source,Source
+identifier,Identifier,,
+type,Type,
+format,Format,
+rights,Rights,
+rightsstatement,Rights Statement,,true
+language, Language
 relation, Relation,,true
 publisher, Publisher
 coverage, Coverage
