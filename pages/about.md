@@ -14,7 +14,8 @@ Baseball was fairly different in 1922 than in 2022. There only 16 teams, 8 in ea
 
 The World and Its Cartoonists
 --
-Without television and the internet, newspapers were one way of following baseball. Radio was another way. However, neither were primarily visual mediums. Cartoons were a way for fans to engage with baseball visually without attending a game. They also provided cartoonists with plentiful opportunities to mock the game and its players. Thus, cartoons served both a documentary and entertainment purpose. Below are list of the cartoonists whose work you will see:
+Without television and the internet, newspapers were one way of following baseball. The New York Evening World was one of many newspapers available to readers in New York City. Published in the evening, it complemented the morning New York World. Owned and managed by the Pulitzer family after the death of Joseph Pulitzer, the Evening World ran into the early 1930s. The Evening World contained at least two pages of sports content in each edition, giving readers a healthy dose of sports news every evening, except Sunday. 
+However, newspapers were not the only way to follow baseball. Radio was another way and throughout the 1920s grabbed a greater foothold. However, neither were primarily visual mediums. Cartoons were a way for fans to engage with baseball visually without attending a game. They also provided cartoonists with plentiful opportunities to mock the game and its players. Thus, cartoons served both a documentary and entertainment purpose. Below are list of the cartoonists whose work you will see:
 
 Thornton Fisher: Most of the sports cartoons published in the New York Evening World were Fisher's. Fisher was a sports journalist and cartoonist who worked for numerous papers throughout the 1910s and 1920s. He became a sports broadcaster in 1923 on New York radio stations WEAF and WNYC. He was hired by NBC in the 1930s.
 
